@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672407996 source:d:\progect c\gym\fun.c
+
+1672582006 source:d:\progect c\gym\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1672407996 d:\progect c\gym\fun.c
+
+1672558035 source:d:\progect c\gym\string.c
+
