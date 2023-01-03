@@ -1,4 +1,4 @@
-#include<stdio.h>
+
 void member(){
     puts("1- View all defined subscription");
     puts("2- Change info");
