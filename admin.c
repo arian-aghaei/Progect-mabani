@@ -1,4 +1,4 @@
-#include<stdio.h>
+
 void admin(){
     puts("1- Add a new member");
     puts("2- View active and inactive members");
