@@ -1,5 +1,6 @@
 
-void admin(){
+void admin()
+{
     puts("1- Add a new member");
     puts("2- View active and inactive members");
     puts("3- Search by membership code");
@@ -11,11 +12,13 @@ void admin(){
     puts("9- Return back");
 }
 
-void admin_1(){
+void admin_1()
+{
 
 }
 
-void admin_2(){
+void admin_2()
+{
     puts("1- View active members");
     puts("2- View inactive members");
     puts("3- Return back");
@@ -23,7 +26,8 @@ void admin_2(){
 
 // admin_21 , 22 , 23
 
-void admin_3(){
+void admin_3()
+{
 
 }
 
