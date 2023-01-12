@@ -35,3 +35,13 @@ int strcspn1(char s1[], char s2[]){
 		return c;
 	}
 }
+int strcmp1(char s1[], char s2[]){
+    int i=1;
+    if(s1[0]==s2[0] && strlen1(s1)==strlen1(s2)){
+        for(i; i<strlen1(s2); i++){
+            if(s1[i]!=s2[i]) break;
+        }
+        if(i==strlen1(s2)) return 1;
+    }
+    return 0;
+}
